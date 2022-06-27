@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a311f7a2-be07-4a62-8fe2-cd09ec8082dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layouts/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layouts/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TopLink.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TopLink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions/actionTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions/actionTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducer/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducer/auth.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uzElxacP0BfjxZwCJjhvWCFmdd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a311f7a2-be07-4a62-8fe2-cd09ec8082dc" name="Default Changelist" comment="" />
+      <created>1625660174266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625660174266</updated>
+      <workItem from="1625660198151" duration="31000" />
+    </task>
+    <servers />
+  </component>
+</project>
